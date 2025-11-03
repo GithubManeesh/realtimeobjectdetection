@@ -28,15 +28,12 @@ git clone https://github.com/GitHubManeesh/realtimeobjectdetectionAI
 
 cd realtimeobjectdetection
 
-## Install required dependencies
+## 🚀 Quick Run
 
-bash
-pip install ultralytics opencv-python
-🎮 Usage
-Run the application with default settings:
+pip install -r requirements.txt
 
-bash
 python Project.py
+
 🔧 Model Information
 Default Model: YOLOv8 Medium (yolov8m.pt)
 
